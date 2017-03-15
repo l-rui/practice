@@ -35,8 +35,8 @@ public class IntersectionTwoArrays {
     }
 
     public static void main(String[] args) {
-        int[] nums1 = {1, 2, 2, 1};
-        int[] nums2 = {2, 2};
+        int[] nums1 = {1, 2, 2, 1, 3};
+        int[] nums2 = {2, 2, 3};
         IntersectionTwoArrays ita = new IntersectionTwoArrays();
         System.out.println(Arrays.toString(ita.intersection(nums1, nums2)));
     }
