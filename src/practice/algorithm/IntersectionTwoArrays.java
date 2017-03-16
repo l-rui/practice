@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by root on 2017/3/15.
+ * Created by l-rui on 2017/3/15.
  * Given two arrays, write a function to compute their intersection.
  * 给定两个数组，写一个函数来计算它们的交集。
  * 思路：

@@ -1,7 +1,7 @@
 package practice.algorithm;
 
 /**
- * Created by root on 2017/3/12.
+ * Created by l-rui on 2017/3/12.
  * Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
  * 编写一个函数来删除单链表中的一个节点（除了尾部），只提供对该节点的引用。
  * 思路：

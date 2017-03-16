@@ -6,6 +6,10 @@ import java.util.*;
  * Created by l-rui on 2017/3/8.
  * Given a non-empty array of integers, return the k most frequent elements.
  * 给定一个非空的int数组，返回前k个出现次数最多的元素
+ * 思路：
+ * 1、定义Element类，代表某个数字出现的次数；
+ * 2、遍历给定的数组，并统计每个数字出现的次数，结果保存到HashMap<Integer, Element>中；
+ * 3、取出所有的Element并对其排序，最后取出前K个Element的num值并返回。
  */
 public class TopKFrequentElements {
 

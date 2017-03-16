@@ -1,7 +1,7 @@
 package practice.algorithm;
 
 /**
- * Created by root on 2017/3/11.
+ * Created by l-rui on 2017/3/11.
  * Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.
  * 给定一个正整数，输出它的补码数。补码策略是翻转二进制表示的位。
  * 思路：异或运算符可以满足求补的过程。 如果a和b“互补”，那么a^b=(1....1)  (展开多少位就有多少个1)。注意越界问题。

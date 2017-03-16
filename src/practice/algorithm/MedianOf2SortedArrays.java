@@ -1,7 +1,7 @@
 package practice.algorithm;
 
 /**
- * Created by root on 2017/3/10.
+ * Created by l-rui on 2017/3/10.
  * There are two sorted arrays nums1 and nums2 of size m and n respectively.Find the median of the two sorted arrays.
  * 有两个已经排好序的数组nums1和nums2，长度分别为m和n，找出两个排序数组的中位数。
  * 思路：
