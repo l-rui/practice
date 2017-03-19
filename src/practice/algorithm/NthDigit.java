@@ -26,4 +26,9 @@ public class NthDigit {
         return String.valueOf(start).charAt((int)((m-1)%len))-'0';
     }
 
+    public static void main(String[] args) {
+        NthDigit nd = new NthDigit();
+        System.out.println(nd.findNthDigit(3));
+    }
+
 }
