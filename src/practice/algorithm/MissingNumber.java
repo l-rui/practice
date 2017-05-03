@@ -3,7 +3,7 @@ package practice.algorithm;
 /**
  * Created by lirui on 2017/5/3.
  * Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
- * 给定一个包含从0，1，2，...，n中取出的n个不同数字的数组，找到数组中缺少的数组。
+ * 给定一个包含从0，1，2，..，n中取出的n个不同数字的数组，找到数组中缺少的数组。
  */
 public class MissingNumber {
 
